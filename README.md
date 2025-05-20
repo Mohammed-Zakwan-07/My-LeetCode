@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my personal solutions to problems from [LeetCode]([(https://leetcode.com/u/Zakwan177/)]). It's mainly intended for learning, self-improvement, and interview prep.
+This repository contains my personal solutions to problems from [LeetCode]([https://leetcode.com/u/Zakwan177/]). It's mainly intended for learning, self-improvement, and interview prep.
 
 ## 🧠 Purpose
 
